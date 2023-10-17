@@ -8,6 +8,6 @@ public class addition{
         System.out.println("Enter second number:-");
         int b = sc.nextInt();
         int c = a + b;
-        System.out.println("The sum of a and b is:- " +2c);
+        System.out.println("The sum of a and b is:- " +c);
     }
 }
